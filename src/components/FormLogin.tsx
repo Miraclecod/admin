@@ -1,5 +1,6 @@
 import React from "react";
 import {useDispatch, useSelector} from "react-redux";
+//@ts-ignore
 import {userActions} from "../redux/actionTypes/actions" 
 
 const FormLogin = () => {
